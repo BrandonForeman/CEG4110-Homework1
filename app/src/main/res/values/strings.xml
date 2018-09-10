@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CEG4110_Homework_1</string>
+    <string name="menu_welcome">Welcome!</string>
+    <string name="menu_introduction">Please select either part 1 or part 2 button.</string>
+    <string name="part1_button">Part 1: Color Generator</string>
+    <string name="part2_button">Part 2: Drawing Canvas</string>
+    <string name="canvas_save">Save</string>
+    <string name="canvas_clear">Clear</string>
+    <string name="canvas_changeColor">Change Color</string>
+    <string name="colorPicker_title">Random Color Changer</string>
+    <string name="colorPicker_changeColor">Change Color</string>
+    <string name="colorPicker_hint">Put text here</string>
+    <string name="colorPicker_headline">Choose a color</string>
+    <string name="colorPicker_rgb_textView">RGB(0, 0, 0)</string>
+    <string name="canvas_red_textView">RED</string>
+    <string name="canvas_green_textView">GREEN</string>
+    <string name="canvas_BLUE_textView">BLUE</string>
+</resources>
