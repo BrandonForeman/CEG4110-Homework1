@@ -82,3 +82,6 @@ select "Part 2: Drawing Canvas"
 5. You can also clear the canvas screen by clicking on "CLEAR". Be careful though, there isn't an undo button!
 
 ![](images/usage_step7.jpg)
+
+### Closing Thoughts
+You can reach me at bforeman7777@gmail.com.
