@@ -1,5 +1,3 @@
-
-
 # CEG 4110 : Homework 1
 
 ### Introduction
@@ -31,7 +29,10 @@ Now you're all set! You can now use all the DrawView object included with this l
 | ![](images/deployment_step1.jpg)                             |
 | 4. Install the application                                   |
 | ![](images/deployment_step2.jpg)                             |
-| Now you have the application installed and you are ready to use it |
+| 5. Go into your application settings and find "CEG4110_Homework_1" |
+| ![](images/setupStep3.jpg)                                   |
+| 6. Now click on Permissions and tick the button to allow storage permissions. **If you don't enable this permission, then you will be unable to save your drawings** |
+| ![](images/setupStep4.jpg)                                   |
 
 
 
