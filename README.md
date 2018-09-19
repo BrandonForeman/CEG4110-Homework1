@@ -15,9 +15,14 @@ https://github.com/BrandonForeman/CEG4110-Homework1
 
  The installation for this library is as follows:
  1. Goto this github webpage https://github.com/divyanshub024/AndroidDraw
+
  2. Add the JitPack repository to your build file in your root gradle file![](readme_images/setupStep1.png)
+
  3. Add the dependency to the library in your apps gradle file. This will be different from the gradle file from part 2. 
     ![](readme_images/setupStep2.png)
+
+
+
     Now you're all set! You can now use all the DrawView object included with this library. For more information on how the library's github page in step one.
 
 ---
