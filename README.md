@@ -23,7 +23,7 @@ https://github.com/BrandonForeman/CEG4110-Homework1
 
 
 
-    Now you're all set! You can now use all the DrawView object included with this library. For more information on how the library's github page in step one.
+    Now you're all set! You can now use all the DrawView object included with this library. For more information on how to use the library's, refer to the github page in step one.
 
 ---
  ### Setting up the Project
