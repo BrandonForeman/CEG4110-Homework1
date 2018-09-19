@@ -9,7 +9,7 @@ https://github.com/BrandonForeman/CEG4110-Homework1
  2. A canvas for drawing
  * User can draw on a canvas by touching their screen. They can change the color that they wish to draw with by using a red, green, blue color picker. Additionally, they can clear the screen and save their drawing to a .jpeg file. Their saved image will be in their devices default picture directory (this will most likely where pictures taken by the camera are stored).
 
- ---
+---
  ### External Dependencies
  This project has one external dependency. It is a library called AndroidDraw. This library is responsible for the canvas drawing functions. 
 
@@ -20,56 +20,58 @@ https://github.com/BrandonForeman/CEG4110-Homework1
     ![](readme_images/setupStep2.png)
     Now you're all set! You can now use all the DrawView object included with this library. For more information on how the library's github page in step one.
 
- ---
+---
  ### Setting up the Project
- | To deploy the app to your device, follow these instructions: |
- | :----------------------------------------------------------- |
- | 1. Move the Homework1.apk executable to your mobile device by any method |
- | 2. Open and run the Homework1.apk by clicking on it          |
- | 3. Allow access to unknown apps in your settings             |
- | ![](readme_images/deployment_step1.jpg)                             |
- | 4. Install the application                                   |
- | ![](readme_images/deployment_step2.jpg)                             |
- | 5. Go into your application settings and find "CEG4110_Homework_1" |
- | ![](readme_images/setupStep3.jpg)                                   |
- | 6. Now click on Permissions and tick the button to allow storage permissions. **If you don't enable this permission, then you will be unable to save your drawings** |
- | ![](readme_images/setupStep4.jpg)                                   |
+| To deploy the app to your device, follow these instructions: |
+| :----------------------------------------------------------- |
+| 1. Move the Homework1.apk executable to your mobile device by any method. |
+| 2. Open and run the Homework1.apk by clicking on it          |
+| 3. Allow access to unknown apps in your settings..           |
+| ![](readme_images/deployment_step1.jpg)                      |
+| 4. Install the application.                                  |
+| ![](readme_images/deployment_step2.jpg)                      |
+| 5. Go into your application settings and find "CEG4110_Homework_1". |
+| ![](readme_images/deployment_step3.jpg)                      |
+| 6. Scroll down and click on the section labeled "Permissions". |
+| ![](readme_images/deployment_step4.jpg)                      |
+| 7. Now click on Permissions and tick the button to allow storage permissions. **If you don't enable this permission, then you will be unable to save your drawings**. |
+| ![](readme_images/deployment_step5.jpg)                      |
 
 
 
- ---
+---
 
  ### Using the Application
  This app has two main modules of functionality.
  1. Text Color Generator
  2. Drawing canvas
 
- | 1. Text Color Generator                                      |
- | ------------------------------------------------------------ |
- | 1. To navigate to the the color generator, select "Part 1: Color Generator" |
- | ![](readme_images/usage_step1.jpg)                                  |
- | 2. You will now be greeted with a screen that allows you to enter in text |
- | ![](readme_images/usage_step2.jpg)                                  |
- | 3. Enter in text where the text-box reads "Enter text here" and click the button that reads "CHANGE COLOR". |
- | ![](readme_images/usage_step3.jpg)                                  |
- | 4. You will now see that the text has changed its color and information about the current color of the text is displayed. Each button press will generate a random color. |
+| 1. Text Color Generator                                      |
+| ------------------------------------------------------------ |
+| 1. To navigate to the the color generator, select "Part 1: Color Generator". |
+| ![](readme_images/usage_step1.jpg)                           |
+| 2. You will now be greeted with a screen that allows you to enter in text. |
+| ![](readme_images/usage_step2.jpg)                           |
+| 3. Enter in text where the text-box reads "Enter text here" and click the button that reads "CHANGE COLOR". |
+| ![](readme_images/usage_step3.jpg)                           |
+| 4. You will now see that the text has changed its color and information about the current color of the text is displayed. Each button press will generate a random color. |
 
- ---
+---
 
- | 2. Drawing Canvas                                            |
- | ------------------------------------------------------------ |
- | 1. To navigate to the the drawing canvas, select "Part 2: Drawing Canvas". Remember, pressing the back button on your android device will take you back to the previous screen that you are on. |
- | ![](readme_images/usage_step1.jpg)                                  |
- | 2. Now you will be greeted with a drawing canvas. Press your finger against the screen to draw on it. |
- | ![](readme_images/usage_step4.jpg)                                  |
- | 3. You can change the color of your paint by clicking the button "CHANGE COLOR". You will be brought to a new screen which allows you to manually input the color you wish. Once you have selected your color, press the back button on your device. |
- | ![](readme_images/usage_step5.jpg)                                  |
- | 4. Draw with your new color and when you are finished with your drawing  select "SAVE" to save you drawing. Note: Your picture will save in your device's default photo directory. (Your default directory is most likely where your pictures taken by your camera are stored.) It should be view-able from your device's default picture gallery application. (If you don't see your photo there, then you can always view your default picture directory by navigating to it from a file explorer application.) |
- | ![](readme_images/usage_step6.jpg)                                  |
- | 5. You can also clear the canvas screen by clicking on "CLEAR". Be careful though, there isn't an undo button! |
- | ![](readme_images/usage_step7.jpg)                                  |
+| 2. Drawing Canvas                                            |
+| ------------------------------------------------------------ |
+| 1. To navigate to the the drawing canvas, select "Part 2: Drawing Canvas". Remember, pressing the back button on your android device will take you back to the previous screen that you are on. |
+| ![](readme_images/usage_step1.jpg)                           |
+| 2. Now you will be greeted with a drawing canvas. Press your finger against the screen to draw on it. |
+| ![](readme_images/usage_step4.jpg)                           |
+| 3. You can change the color of your paint by clicking the button "CHANGE COLOR". You will be brought to a new screen which allows you to manually input the color you wish. Once you have selected your color, press the back button on your device. |
+| ![](readme_images/usage_step5.jpg)                           |
+| 4. Draw with your new color and when you are finished with your drawing  select "SAVE" to save you drawing. Note: Your picture will save in your device's default photo directory. (Your default directory is most likely where your pictures taken by your camera are stored.) It should be view-able from your device's default picture gallery application. (If you don't see your photo there, then you can always view your default picture directory by navigating to it from a file explorer application) |
+| ![](readme_images/usage_step6.jpg)                           |
+| 5. You can also clear the canvas screen by clicking on "CLEAR". Be careful though, there isn't an undo button! |
+| ![](readme_images/usage_step7.jpg)                           |
 
- ---
+---
 
  ### Design Decisions and Class Structure
  This project contains four classes:
@@ -102,6 +104,6 @@ I chose to break this class out of CanvasActivity for one major reason, reusabil
 
 This is good for two reasons. One, I lessen my risk of bugs in my code base since all the color picking functionality is in one place instead of spreading out across the code base. Two, it means that I can continue to reuse my ColorPickerActivity for any other pieces of functionality which also require the same color picking functionality.
 
- ---
+---
  ### Closing Thoughts
  You can reach me at bforeman7777@gmail.com.
