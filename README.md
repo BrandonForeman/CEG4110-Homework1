@@ -15,9 +15,9 @@
 >
 > The installation for this library is as follows:
 > 1. Goto this github webpage https://github.com/divyanshub024/AndroidDraw
-> 2. Add the JitPack repository to your build file in your root gradle file![](images/setupStep1.png)
+> 2. Add the JitPack repository to your build file in your root gradle file![](readme_images/setupStep1.png)
 > 3. Add the dependency to the library in your apps gradle file. This will be different from the gradle file from part 2. 
->    ![](images/setupStep2.png)
+>    ![](readme_images/setupStep2.png)
 >    Now you're all set! You can now use all the DrawView object included with this library. For more information on how the library's github page in step one.
 >
 > ---
@@ -27,13 +27,13 @@
 > | 1. Move the Homework1.apk executable to your mobile device by any method |
 > | 2. Open and run the Homework1.apk by clicking on it          |
 > | 3. Allow access to unknown apps in your settings             |
-> | ![](images/deployment_step1.jpg)                             |
+> | ![](readme_images/deployment_step1.jpg)                             |
 > | 4. Install the application                                   |
-> | ![](images/deployment_step2.jpg)                             |
+> | ![](readme_images/deployment_step2.jpg)                             |
 > | 5. Go into your application settings and find "CEG4110_Homework_1" |
-> | ![](images/setupStep3.jpg)                                   |
+> | ![](readme_images/setupStep3.jpg)                                   |
 > | 6. Now click on Permissions and tick the button to allow storage permissions. **If you don't enable this permission, then you will be unable to save your drawings** |
-> | ![](images/setupStep4.jpg)                                   |
+> | ![](readme_images/setupStep4.jpg)                                   |
 >
 >
 >
@@ -47,11 +47,11 @@
 > | 1. Text Color Generator                                      |
 > | ------------------------------------------------------------ |
 > | 1. To navigate to the the color generator, select "Part 1: Color Generator" |
-> | ![](images/usage_step1.jpg)                                  |
+> | ![](readme_images/usage_step1.jpg)                                  |
 > | 2. You will now be greeted with a screen that allows you to enter in text |
-> | ![](images/usage_step2.jpg)                                  |
+> | ![](readme_images/usage_step2.jpg)                                  |
 > | 3. Enter in text where the text-box reads "Enter text here" and click the button that reads "CHANGE COLOR". |
-> | ![](images/usage_step3.jpg)                                  |
+> | ![](readme_images/usage_step3.jpg)                                  |
 > | 4. You will now see that the text has changed its color and information about the current color of the text is displayed. Each button press will generate a random color. |
 >
 > ---
@@ -59,15 +59,15 @@
 > | 2. Drawing Canvas                                            |
 > | ------------------------------------------------------------ |
 > | 1. To navigate to the the drawing canvas, select "Part 2: Drawing Canvas". Remember, pressing the back button on your android device will take you back to the previous screen that you are on. |
-> | ![](images/usage_step1.jpg)                                  |
+> | ![](readme_images/usage_step1.jpg)                                  |
 > | 2. Now you will be greeted with a drawing canvas. Press your finger against the screen to draw on it. |
-> | ![](images/usage_step4.jpg)                                  |
+> | ![](readme_images/usage_step4.jpg)                                  |
 > | 3. You can change the color of your paint by clicking the button "CHANGE COLOR". You will be brought to a new screen which allows you to manually input the color you wish. Once you have selected your color, press the back button on your device. |
-> | ![](images/usage_step5.jpg)                                  |
+> | ![](readme_images/usage_step5.jpg)                                  |
 > | 4. Draw with your new color and when you are finished with your drawing  select "SAVE" to save you drawing. Note: Your picture will save in your device's default photo directory. (Your default directory is most likely where your pictures taken by your camera are stored.) It should be view-able from your device's default picture gallery application. (If you don't see your photo there, then you can always view your default picture directory by navigating to it from a file explorer application.) |
-> | ![](images/usage_step6.jpg)                                  |
+> | ![](readme_images/usage_step6.jpg)                                  |
 > | 5. You can also clear the canvas screen by clicking on "CLEAR". Be careful though, there isn't an undo button! |
-> | ![](images/usage_step7.jpg)                                  |
+> | ![](readme_images/usage_step7.jpg)                                  |
 >
 > ---
 >
